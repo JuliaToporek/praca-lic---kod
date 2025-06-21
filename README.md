@@ -1,1 +1,1 @@
-# praca-lic-kod
+#Kody wykorzystane przy tworzeniu pracy licencjackiej 
