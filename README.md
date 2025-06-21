@@ -1,1 +1,1 @@
-# praca-lic---kod
+# praca-lic-kod
